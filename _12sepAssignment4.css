@@ -1,0 +1,44 @@
+.main{
+    height: 460px;
+    width: 70%;
+    margin: 10px auto;
+    border-radius: 15px;
+    background-color: rgb(78, 79, 80);
+    padding-left: 6%;
+    font-size: 18px;
+    text-align: center;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+.div1{
+    height: 90px;
+    width: 90px;
+    border-radius: 14px;
+    background-color: green;
+    margin: 20px;
+    padding: 5px;
+}
+.div2{
+    height: 90px;
+    width: 90px;
+    border-radius: 14px;
+    background-color: green;
+    margin: 20px;
+    padding: 5px;
+}
+.div3{
+    height: 90px;
+    width: 90px;
+    border-radius: 14px;
+    background-color: green;
+    margin: 20px;
+    padding: 5px;
+}
+.div4{
+    height: 90px;
+    width: 90px;
+    border-radius: 14px;
+    background-color: green;
+    margin: 20px;
+    padding: 5px;
+}

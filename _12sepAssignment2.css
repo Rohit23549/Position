@@ -1,0 +1,11 @@
+div{
+    height: 400px;
+    width: 50%;
+    background-color: bisque;
+    color: rgb(23, 22, 22);
+    border: 2px solid blue;
+    font-weight: 600;
+    margin: 10px auto;
+    padding: 10px;
+    overflow: auto;
+}
